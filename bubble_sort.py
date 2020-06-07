@@ -15,12 +15,12 @@ def bubble_sort(input_list):
       return input_list
 
     while True:
-        sorted = 0
+        sorted_pairs = 0
         for i, num in enumerate(input_list[1:], 1):
             if input_list[i] < input_list[i - 1]:
                 input_list[i], input_list[i - 1] = input_list[i - 1], input_list[i]
-                sorted += 1
-        if sorted == 0:
+                sorted_pairs += 1
+        if sorted_pairs == 0:
             return input_list
 
 
