@@ -28,5 +28,5 @@ print(bubble_sort(my_list))
 
 '''
 Time: O(n^2)
-Space: O(1) We store only the variable "sorted", therefore the space complexity is constant.
+Space: O(1) We store only the variable "sorted_pairs", therefore the space complexity is constant.
 '''
