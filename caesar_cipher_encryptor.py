@@ -17,7 +17,6 @@ def caesar_cipher_encryptor(string, key):
     chars_in_string = [''] * len(string)
 
     for i, char in enumerate(string):
-        print(i, char)
         chars_in_string[i] = chr(
             ord('a') + (ord(char) - ord('a') + key) % (1 + ord('z') - ord('a')))
 
@@ -25,5 +24,10 @@ def caesar_cipher_encryptor(string, key):
 
 
 my_string = "abc"
-my_key = 2
+my_key = 3
 print(caesar_cipher_encryptor(my_string, my_key))
+
+'''
+Time: O(n)
+Space: O(n)
+'''
