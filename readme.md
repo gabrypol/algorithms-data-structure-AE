@@ -13,3 +13,5 @@ Here my solutions to the coding challenges on AlgoExpert.io
 - [Binary search](./binary_search.py) (Easy)
 
 ## Strings
+
+- [Palindrome check](./palindrome_check.py) (Easy)
