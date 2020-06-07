@@ -3,7 +3,7 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 ## Arrays
 
 - [Two number sum](./two_number_sum.py) (Easy)
-- [Validate subsequence](./validate_subsequence.py) (Easy)
+- [Validate subsequence](./validate_susbequence.py) (Easy)
 
 ## Recursion
 
