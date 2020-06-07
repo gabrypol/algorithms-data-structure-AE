@@ -26,3 +26,9 @@ def validate_subsequence(input_list, input_sequence):
 my_list = [1, 1, 1, 1, 1, 1]
 my_sequence = [1, 1, 1]
 print(validate_subsequence(my_list, my_sequence))
+
+
+'''
+Time: O(n)
+Space: O(1)
+'''
