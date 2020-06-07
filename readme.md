@@ -1,4 +1,4 @@
-Here my solutions to the coding challenges on AlgoExpert.io
+Here are my solutions to the coding challenges on AlgoExpert.io
 
 ## Arrays
 
@@ -15,6 +15,7 @@ Here my solutions to the coding challenges on AlgoExpert.io
 ## Sorting
 
 - [Bubble sort](./bubble_sort.py) (Easy)
+- [Insertion sort](./insertion_sort.py) (Easy)
 
 ## Strings
 
