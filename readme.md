@@ -12,6 +12,7 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 ## Searching
 
 - [Binary search](./binary_search.py) (Easy)
+- [Find Three Largest Numbers](./find_three_largest_numbers.py) (Easy)
 
 ## Sorting
 
