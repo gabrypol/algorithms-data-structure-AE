@@ -34,3 +34,9 @@ def find_three_largest_numbers(input_list):
 
 my_list = [141, 1, 17, -7, -17, -27, 18, 541, 8, 7, 7]
 print(find_three_largest_numbers(my_list))
+
+
+'''
+Time: O(n)
+Space: O(1)
+'''
