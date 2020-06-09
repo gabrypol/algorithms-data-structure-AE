@@ -13,10 +13,10 @@ Sample Output
 
 '''
 SOLUTIONS:
-    This problem can be solved using the brute force approach, comparing each of the elements of the first list to each of the elements of the second list. Time complexity would be O(n^2), because of the two nested for loop that would be needed. Space complexity would be O(1).
+    This problem can be solved using the brute force approach, comparing each of the elements of the first list to each of the elements of the second list. The time complexity would be O(mn), because of the two nested for loops. The space complexity would be O(1). (m and n are the lengths of the two lists).
 
     Can we do better??
-    Yes, the solution that I have implemented below has time complexity O(nlogn). Space complexity is O(1).
+    Yes, the solution below has time complexity O(mlogm + nlogn), where m and n are the lengths of the two lists. Space complexity is O(1).
 '''
 def smallest_difference(input_list_1, input_list_2):
     list_one.sort()
@@ -46,6 +46,6 @@ print(smallest_difference(list_one, list_two))
 
 
 '''
-Time: O(nlogn) The runtime of the sorting algorithm, which is O(nlogn) dwarfs the runtime of the while loop, which is O(n).
+Time: O(mlogm + nlogn) The runtime of the sorting algorithm, which is linearithmic, dwarfs the linear runtime O(m + n) of the while loop.
 Space: O(1) We only store a constant number of variables: list_one_idx, list_two_idx, smallest_difference and smallest_difference_pair.
 '''
