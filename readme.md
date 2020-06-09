@@ -4,6 +4,7 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 
 - [Two number sum](./two_number_sum.py) (Easy)
 - [Validate subsequence](./validate_susbequence.py) (Easy)
+- [Three number sum](./three_number_sum.py) (Medium)
 
 ## Recursion
 
