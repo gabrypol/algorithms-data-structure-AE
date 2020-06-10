@@ -28,3 +28,4 @@ print(group_anagrams(my_words))
 '''
 Time: O(w * n * log(n)) where w is the number of words in "my_words" and n the length of the longest word
 Space: O(w * n)
+'''
