@@ -7,6 +7,7 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 - [Three number sum](./three_number_sum.py) (Medium)
 - [Smallest difference](./smallest_difference.py) (Medium)
 - [Move element to the end](./move_element_to_the_end.py) (Medium)
+- [Monotonic array](./monotonic_array.py) (Medium)
 
 ## Recursion
 
