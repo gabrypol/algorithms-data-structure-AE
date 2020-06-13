@@ -37,5 +37,6 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 
 - [Palindrome check](./palindrome_check.py) (Easy)
 - [Caesar Cipher Encryptor](./caesar_cipher_encryptor.py) (Easy)
+- [Longest palindromic substring](./longest_palindromic_substring.py) (Medium)
 - [Group anagrams](./group_anagrams.py) (Medium)
 
