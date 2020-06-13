@@ -46,6 +46,6 @@ print(smallest_difference(list_one, list_two))
 
 
 '''
-Time: O(mlogm + nlogn) The runtime of the sorting algorithm, which is linearithmic, dwarfs the linear runtime O(m + n) of the while loop.
+Time: O(m * log(m) + n * log(n)) The runtime of the sorting algorithm, which is linearithmic, dwarfs the linear runtime O(m + n) of the while loop.
 Space: O(1) We only store a constant number of variables: list_one_idx, list_two_idx, smallest_difference and smallest_difference_pair.
 '''
