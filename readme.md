@@ -9,6 +9,13 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 - [Move element to the end](./move_element_to_the_end.py) (Medium)
 - [Monotonic array](./monotonic_array.py) (Medium)
 
+## Binary trees
+
+- [Branch sums](./branch_sums.py) (Easy)
+
+## Dynamic programming
+- [Max subset sum no adjacent](./max_subset_sum_no_adjacent.py) (Medium)
+
 ## Recursion
 
 - [nth Fibonacci](./nth_fibonacci.py) (Easy)
@@ -23,11 +30,11 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 
 - [Bubble sort](./bubble_sort.py) (Easy)
 - [Insertion sort](./insertion_sort.py) (Easy)
+- [Selection sort](./selection_sort.py) (Easy)
 
 ## Strings
 
 - [Palindrome check](./palindrome_check.py) (Easy)
 - [Caesar Cipher Encryptor](./caesar_cipher_encryptor.py) (Easy)
-- [Longest Palindromic Substring] --COMING SOON -- (Medium)
 - [Group anagrams](./group_anagrams.py) (Medium)
 
