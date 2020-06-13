@@ -9,6 +9,10 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 - [Move element to the end](./move_element_to_the_end.py) (Medium)
 - [Monotonic array](./monotonic_array.py) (Medium)
 
+## Binary search trees
+
+- [BST construction](./bst_construction.py) (Medium)
+
 ## Binary trees
 
 - [Branch sums](./branch_sums.py) (Easy)
