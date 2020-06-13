@@ -13,7 +13,7 @@ SOLUTION:
   This is the implementation of binary search. We use a "divide and conquer" approach, dividing the problem in half at each iteration.
   Therefore the time complexity is logarithmic. Space complexity is constant, since we will always need to store only three variables (left_idx, right_idx and guess_idx).
 
-    Time: O(logn)
+    Time: O(log(n))
     Space: O(1)
 '''
 
