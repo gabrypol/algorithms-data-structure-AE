@@ -32,16 +32,17 @@ def branch_sums(root):
 
 
 def calculate_branch_sum(node, sum_above, sum_list):
-    if node is None:
-        return
-
     sum_included_current = sum_above + node.value
     if not node.right and not node.left:
         sum_list.append(sum_included_current)
         return
-
-    calculate_branch_sum(node.left, sum_included_current, sum_list)
-    calculate_branch_sum(node.right, sum_included_current, sum_list)
+    elif not node.right and node.left:
+        calculate_branch_sum(node.left, sum_included_current, sum_list)
+    elif node.right and not node.left:
+        calculate_branch_sum(node.right, sum_included_current, sum_list)
+    else:
+        calculate_branch_sum(node.left, sum_included_current, sum_list)
+        calculate_branch_sum(node.right, sum_included_current, sum_list)
 
 
 tree = BinaryTreeNode(1)
