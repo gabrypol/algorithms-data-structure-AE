@@ -11,6 +11,7 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 
 ## Binary search trees
 
+- [Find closest value in BST](./find_closest_value_in_bst.py) (Easy)
 - [BST construction](./bst_construction.py) (Medium)
 
 ## Binary trees
