@@ -22,6 +22,10 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 ## Dynamic programming
 - [Max subset sum no adjacent](./max_subset_sum_no_adjacent.py) (Medium)
 
+## Graphs
+
+- [Depth first search](./depth_first_search.py) (Easy)
+
 ## Recursion
 
 - [nth Fibonacci](./nth_fibonacci.py) (Easy)
