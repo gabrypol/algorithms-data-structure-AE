@@ -43,5 +43,6 @@ print(graph.depthFirstSearch([]))
 
 '''
 Time: O(v + e) where v is the number of vertices (nodes) and e is the number of edges.
-Space: O(v)
+Space: O(v) -- The space complexity is O(v) because we need to output a new list containing all vertices.
+               Also, in the worst case of a graph being a single line of nodes, we would need v frames on the call stack.
 '''
