@@ -18,6 +18,7 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 
 - [Branch sums](./branch_sums.py) (Easy)
 - [Node depths](./node_depths.py) (Easy)
+- [Validate BST](./validate_bst.py) (Easy)
 
 ## Dynamic programming
 - [Max subset sum no adjacent](./max_subset_sum_no_adjacent.py) (Medium)
