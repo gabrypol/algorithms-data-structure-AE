@@ -179,7 +179,7 @@ class BST:
             else:
                 if self.left is not None and self.right is not None:
                     self.value = self.right.get_min_value()
-                    self.right.remove(self.value, self) ###
+                    self.right.remove(self.value, self)
                 elif parent is None:
                     if self.left is not None:
                         self.value = self.left.value
