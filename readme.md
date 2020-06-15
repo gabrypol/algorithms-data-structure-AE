@@ -13,12 +13,13 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 
 - [Find closest value in BST](./find_closest_value_in_bst.py) (Easy)
 - [BST construction](./bst_construction.py) (Medium)
+- [Validate BST](./validate_bst.py) (Medium)
+- [BST traversal](./bst_traversal.py) (Medium)
 
 ## Binary trees
 
 - [Branch sums](./branch_sums.py) (Easy)
 - [Node depths](./node_depths.py) (Easy)
-- [Validate BST](./validate_bst.py) (Easy)
 
 ## Dynamic programming
 - [Max subset sum no adjacent](./max_subset_sum_no_adjacent.py) (Medium)
