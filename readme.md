@@ -1,4 +1,4 @@
-Here are my solutions to the coding challenges on AlgoExpert.io
+Here are my solutions to some of the coding challenges I use to kill the time in COVID-19 times!
 
 ## Arrays
 
@@ -8,6 +8,7 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 - [Smallest difference](./smallest_difference.py) (Medium)
 - [Move element to the end](./move_element_to_the_end.py) (Medium)
 - [Monotonic array](./monotonic_array.py) (Medium)
+- [Spiral traverse](./spiral_traverse.py) (Medium)
 
 ## Binary search trees
 
@@ -22,7 +23,12 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 - [Node depths](./node_depths.py) (Easy)
 
 ## Dynamic programming
+
 - [Max subset sum no adjacent](./max_subset_sum_no_adjacent.py) (Medium)
+
+## Famous algorithms
+
+- [Kadane's algorithm](./kadanes_algorithm.py) (Medium)
 
 ## Graphs
 
@@ -36,7 +42,7 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 ## Searching
 
 - [Binary search](./binary_search.py) (Easy)
-- [Find Three Largest Numbers](./find_three_largest_numbers.py) (Easy)
+- [Find three largest numbers](./find_three_largest_numbers.py) (Easy)
 
 ## Sorting
 
@@ -47,7 +53,7 @@ Here are my solutions to the coding challenges on AlgoExpert.io
 ## Strings
 
 - [Palindrome check](./palindrome_check.py) (Easy)
-- [Caesar Cipher Encryptor](./caesar_cipher_encryptor.py) (Easy)
+- [Caesar Cipher encryptor](./caesar_cipher_encryptor.py) (Easy)
 - [Longest palindromic substring](./longest_palindromic_substring.py) (Medium)
 - [Group anagrams](./group_anagrams.py) (Medium)
 
