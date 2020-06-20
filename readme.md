@@ -33,7 +33,7 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 ## Graphs
 
 - [Depth first search](./depth_first_search.py) (Easy)
-- [Breadth first search](./breadt_first_search.py) (Medium)
+- [Breadth first search](./breadth_first_search.py) (Medium)
 
 ## Recursion
 
