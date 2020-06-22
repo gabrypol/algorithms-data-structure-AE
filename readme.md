@@ -25,6 +25,7 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 ## Dynamic programming
 
 - [Max subset sum no adjacent](./max_subset_sum_no_adjacent.py) (Medium)
+- [Number of ways to make change](./number_of_ways_to_make_change.py) (Medium)
 - [Min number of coins for change](./min_number_of_coins_for_change.py) (Medium)
 
 ## Famous algorithms
