@@ -9,6 +9,7 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 - [Move element to the end](./move_element_to_the_end.py) (Medium)
 - [Monotonic array](./monotonic_array.py) (Medium)
 - [Spiral traverse](./spiral_traverse.py) (Medium)
+- [Longest peak](./longest_peak.py) (Medium)
 
 ## Binary search trees
 
