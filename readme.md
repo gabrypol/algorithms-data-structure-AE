@@ -17,6 +17,7 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 - [BST construction](./bst_construction.py) (Medium)
 - [Validate BST](./validate_bst.py) (Medium)
 - [BST traversal](./bst_traversal.py) (Medium)
+- [Min height BST](./min_height_bst.py) (Medium)
 
 ## Binary trees
 
