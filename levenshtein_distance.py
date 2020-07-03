@@ -11,7 +11,7 @@ Sample Output
 '''
 
 
-def levenshteinDistance(str1, str2):
+def levenshtein_distance(str1, str2):
     edits = [[x for x in range(len(str1) + 1)] for y in range(len(str2) + 1)]
     for i in range(1, len(str2) + 1):
         edits[i][0] = edits[i - 1][0] + 1
@@ -26,7 +26,7 @@ def levenshteinDistance(str1, str2):
 
 str1 = "abc"
 str2 = "yabd"
-print(levenshteinDistance(str1, str2))
+print(levenshtein_distance(str1, str2))
 
 '''
 Time: O(nm)
