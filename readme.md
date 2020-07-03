@@ -44,6 +44,7 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 
 - [nth Fibonacci](./nth_fibonacci.py) (Easy)
 - [Product sum](./product_sum.py) (Easy)
+- [Permutations](./permutations.py) (Medium)
 
 ## Searching
 
