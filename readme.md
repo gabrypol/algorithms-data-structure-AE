@@ -40,6 +40,10 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 - [Depth first search](./depth_first_search.py) (Easy)
 - [Breadth first search](./breadth_first_search.py) (Medium)
 
+## Linked lists
+
+- [Linked list construction](./linked_list_construction.py) (Medium)
+
 ## Recursion
 
 - [nth Fibonacci](./nth_fibonacci.py) (Easy)
