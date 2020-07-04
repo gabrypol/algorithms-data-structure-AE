@@ -38,6 +38,7 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 ## Graphs
 
 - [Depth first search](./depth_first_search.py) (Easy)
+- [Single cycle check](./single_cycle_check.py) (Medium)
 - [Breadth first search](./breadth_first_search.py) (Medium)
 
 ## Linked lists
