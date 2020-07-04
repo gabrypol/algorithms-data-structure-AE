@@ -62,6 +62,10 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 - [Insertion sort](./insertion_sort.py) (Easy)
 - [Selection sort](./selection_sort.py) (Easy)
 
+## Stacks
+
+- [Min max stack construction](./min_max_stack_construction.py) (Medium)
+
 ## Strings
 
 - [Palindrome check](./palindrome_check.py) (Easy)
