@@ -43,6 +43,7 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 ## Linked lists
 
 - [Linked list construction](./linked_list_construction.py) (Medium)
+- [Remove kth node from end](./remove_kth_node_from_end.py) (Medium)
 
 ## Recursion
 
