@@ -79,3 +79,6 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 - [Longest palindromic substring](./longest_palindromic_substring.py) (Medium)
 - [Group anagrams](./group_anagrams.py) (Medium)
 
+## Tries
+
+- [Suffix trie construction](./suffix_trie_construction.py) (Medium)
