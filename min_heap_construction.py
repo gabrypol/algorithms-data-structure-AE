@@ -8,8 +8,6 @@ Implement a MinHeap class that supports:
 - Sifting integers up and down the heap, which is to be used when inserting and removing values.
 Note that the heap should be represented in the form of an array.
 
-If you're unfamiliar with Min Heaps, we recommend watching the Conceptual Overview section of this question's video explanation before starting to code.
-
 Sample Usage
 array = [48, 12, 24, 7, 8, -5, 24, 391, 24, 56, 2, 6, 8, 41]
 
