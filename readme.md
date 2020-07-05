@@ -41,6 +41,10 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 - [Single cycle check](./single_cycle_check.py) (Medium)
 - [Breadth first search](./breadth_first_search.py) (Medium)
 
+## Heaps
+
+- [Min heap construction](./min_heap_construction.py) (Medium)
+
 ## Linked lists
 
 - [Linked list construction](./linked_list_construction.py) (Medium)
