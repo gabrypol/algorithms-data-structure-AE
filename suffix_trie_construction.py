@@ -29,6 +29,7 @@ class SuffixTrie:
         self.endSymbol = "*"
         self.populateSuffixTrieFrom(string)
 
+    # Time: O(n^2), Space: O(n^2)
     def populateSuffixTrieFrom(self, string):
         for i in range(len(string)):
             self.insert_substring_starting_at(i, string)
@@ -42,6 +43,8 @@ class SuffixTrie:
             node = node[letter]
         node[self.endSymbol] = True
 
+
+    # Time: O(m), Space: O(1) where m is the length of string we are searching for in the suffix tree
     def contains(self, string):
         node = self.root
         for letter in string:
