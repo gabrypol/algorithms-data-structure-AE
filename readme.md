@@ -70,6 +70,7 @@ Here are my solutions to some of the coding challenges I use to kill the time in
 ## Stacks
 
 - [Min max stack construction](./min_max_stack_construction.py) (Medium)
+- [Balanced brackets](./balanced_brackets.py) (Medium)
 
 ## Strings
 
