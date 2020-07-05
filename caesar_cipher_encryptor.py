@@ -13,13 +13,9 @@ Sample Output
 
 
 def caesar_cipher_encryptor(string, key):
-
     chars_in_string = [''] * len(string)
-
     for i, char in enumerate(string):
-        chars_in_string[i] = chr(
-            ord('a') + (ord(char) - ord('a') + key) % (1 + ord('z') - ord('a')))
-
+        chars_in_string[i] = chr(ord('a') + (ord(char) - ord('a') + key) % (1 + ord('z') - ord('a')))
     return ''.join(chars_in_string)
 
 
